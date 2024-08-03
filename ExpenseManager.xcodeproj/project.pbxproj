@@ -11,6 +11,20 @@
 		71D909DD2C402F390077C001 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D909DC2C402F390077C001 /* ContentView.swift */; };
 		71D909DF2C402F3B0077C001 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71D909DE2C402F3B0077C001 /* Assets.xcassets */; };
 		71D909E22C402F3B0077C001 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71D909E12C402F3B0077C001 /* Preview Assets.xcassets */; };
+		71D909ED2C4031B50077C001 /* ArsenalSC-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 71D909E92C4031B40077C001 /* ArsenalSC-Italic.ttf */; };
+		71D909EE2C4031B50077C001 /* ArsenalSC-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 71D909EA2C4031B40077C001 /* ArsenalSC-Regular.ttf */; };
+		71D909EF2C4031B50077C001 /* ArsenalSC-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 71D909EB2C4031B50077C001 /* ArsenalSC-Bold.ttf */; };
+		71D909F02C4031B50077C001 /* ArsenalSC-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 71D909EC2C4031B50077C001 /* ArsenalSC-BoldItalic.ttf */; };
+		71D909F32C4032160077C001 /* Font+Arsenal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D909F22C4032160077C001 /* Font+Arsenal.swift */; };
+		71D909F72C4033B80077C001 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D909F62C4033B80077C001 /* HomeScreen.swift */; };
+		71D909F92C4035BD0077C001 /* DiscreetToggle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D909F82C4035BD0077C001 /* DiscreetToggle.swift */; };
+		71D909FB2C4035DC0077C001 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D909FA2C4035DC0077C001 /* HeaderView.swift */; };
+		71D909FD2C40392C0077C001 /* InsertButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D909FC2C40392C0077C001 /* InsertButton.swift */; };
+		71D90A002C403C080077C001 /* Record.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D909FF2C403C080077C001 /* Record.swift */; };
+		71D90A022C403C510077C001 /* RecordType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D90A012C403C510077C001 /* RecordType.swift */; };
+		71D90A042C403E300077C001 /* PreviewContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D90A032C403E300077C001 /* PreviewContainer.swift */; };
+		71D90A062C40406B0077C001 /* RecordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D90A052C40406B0077C001 /* RecordView.swift */; };
+		71D90A0A2C40415B0077C001 /* AddRecordScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D90A092C40415B0077C001 /* AddRecordScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +33,21 @@
 		71D909DC2C402F390077C001 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		71D909DE2C402F3B0077C001 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		71D909E12C402F3B0077C001 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		71D909E92C4031B40077C001 /* ArsenalSC-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ArsenalSC-Italic.ttf"; sourceTree = "<group>"; };
+		71D909EA2C4031B40077C001 /* ArsenalSC-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ArsenalSC-Regular.ttf"; sourceTree = "<group>"; };
+		71D909EB2C4031B50077C001 /* ArsenalSC-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ArsenalSC-Bold.ttf"; sourceTree = "<group>"; };
+		71D909EC2C4031B50077C001 /* ArsenalSC-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ArsenalSC-BoldItalic.ttf"; sourceTree = "<group>"; };
+		71D909F12C4031C40077C001 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		71D909F22C4032160077C001 /* Font+Arsenal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Font+Arsenal.swift"; sourceTree = "<group>"; };
+		71D909F62C4033B80077C001 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
+		71D909F82C4035BD0077C001 /* DiscreetToggle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscreetToggle.swift; sourceTree = "<group>"; };
+		71D909FA2C4035DC0077C001 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		71D909FC2C40392C0077C001 /* InsertButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertButton.swift; sourceTree = "<group>"; };
+		71D909FF2C403C080077C001 /* Record.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Record.swift; sourceTree = "<group>"; };
+		71D90A012C403C510077C001 /* RecordType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordType.swift; sourceTree = "<group>"; };
+		71D90A032C403E300077C001 /* PreviewContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewContainer.swift; sourceTree = "<group>"; };
+		71D90A052C40406B0077C001 /* RecordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordView.swift; sourceTree = "<group>"; };
+		71D90A092C40415B0077C001 /* AddRecordScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddRecordScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +80,13 @@
 		71D909D92C402F390077C001 /* ExpenseManager */ = {
 			isa = PBXGroup;
 			children = (
+				71D909FE2C403BFD0077C001 /* Models */,
+				71D909F42C4033A60077C001 /* Views */,
+				71D909E82C4031A30077C001 /* Fonts */,
 				71D909DA2C402F390077C001 /* ExpenseManagerApp.swift */,
 				71D909DC2C402F390077C001 /* ContentView.swift */,
 				71D909DE2C402F3B0077C001 /* Assets.xcassets */,
+				71D909F12C4031C40077C001 /* Info.plist */,
 				71D909E02C402F3B0077C001 /* Preview Content */,
 			);
 			path = ExpenseManager;
@@ -62,9 +95,60 @@
 		71D909E02C402F3B0077C001 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				71D90A032C403E300077C001 /* PreviewContainer.swift */,
 				71D909E12C402F3B0077C001 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		71D909E82C4031A30077C001 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				71D909EB2C4031B50077C001 /* ArsenalSC-Bold.ttf */,
+				71D909EC2C4031B50077C001 /* ArsenalSC-BoldItalic.ttf */,
+				71D909E92C4031B40077C001 /* ArsenalSC-Italic.ttf */,
+				71D909EA2C4031B40077C001 /* ArsenalSC-Regular.ttf */,
+				71D909F22C4032160077C001 /* Font+Arsenal.swift */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		71D909F42C4033A60077C001 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				71D909F52C4033AC0077C001 /* Home */,
+				71D90A072C4041390077C001 /* AddRecord */,
+				71D909F82C4035BD0077C001 /* DiscreetToggle.swift */,
+				71D909FC2C40392C0077C001 /* InsertButton.swift */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		71D909F52C4033AC0077C001 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				71D909F62C4033B80077C001 /* HomeScreen.swift */,
+				71D909FA2C4035DC0077C001 /* HeaderView.swift */,
+				71D90A052C40406B0077C001 /* RecordView.swift */,
+			);
+			name = Home;
+			sourceTree = "<group>";
+		};
+		71D909FE2C403BFD0077C001 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				71D909FF2C403C080077C001 /* Record.swift */,
+				71D90A012C403C510077C001 /* RecordType.swift */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		71D90A072C4041390077C001 /* AddRecord */ = {
+			isa = PBXGroup;
+			children = (
+				71D90A092C40415B0077C001 /* AddRecordScreen.swift */,
+			);
+			name = AddRecord;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +209,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				71D909EE2C4031B50077C001 /* ArsenalSC-Regular.ttf in Resources */,
+				71D909EF2C4031B50077C001 /* ArsenalSC-Bold.ttf in Resources */,
 				71D909E22C402F3B0077C001 /* Preview Assets.xcassets in Resources */,
+				71D909ED2C4031B50077C001 /* ArsenalSC-Italic.ttf in Resources */,
+				71D909F02C4031B50077C001 /* ArsenalSC-BoldItalic.ttf in Resources */,
 				71D909DF2C402F3B0077C001 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +225,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				71D909F72C4033B80077C001 /* HomeScreen.swift in Sources */,
+				71D909FD2C40392C0077C001 /* InsertButton.swift in Sources */,
+				71D909FB2C4035DC0077C001 /* HeaderView.swift in Sources */,
+				71D90A062C40406B0077C001 /* RecordView.swift in Sources */,
+				71D90A0A2C40415B0077C001 /* AddRecordScreen.swift in Sources */,
+				71D90A022C403C510077C001 /* RecordType.swift in Sources */,
+				71D90A042C403E300077C001 /* PreviewContainer.swift in Sources */,
+				71D909F32C4032160077C001 /* Font+Arsenal.swift in Sources */,
 				71D909DD2C402F390077C001 /* ContentView.swift in Sources */,
 				71D909DB2C402F390077C001 /* ExpenseManagerApp.swift in Sources */,
+				71D90A002C403C080077C001 /* Record.swift in Sources */,
+				71D909F92C4035BD0077C001 /* DiscreetToggle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +372,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"ExpenseManager/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ExpenseManager/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -302,6 +401,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"ExpenseManager/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ExpenseManager/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
